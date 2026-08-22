@@ -49,9 +49,13 @@ You may submit your own project. Additional rules apply:
 - The kind badge must match where the features live. An OSS license badge means the listed
   features exist in that repository's code; features served by a hosted backend take the `co`
   badge.
-- Adoption is not required, but the project must be inspectable: working code or a live service,
-  not a landing page.
-- Near-identical submissions sent to many lists at once are declined.
+- The project must be inspectable: working code or a live service, not a landing page.
+- A self-submitted tool needs at least one independent adoption signal: unaffiliated projects or
+  users referencing it, package downloads beyond the author's own automation, or a third-party
+  write-up or benchmark. Star counts alone do not count; we check where they come from. A real
+  project with no outside users yet is welcome back once it has some.
+- Near-identical submissions sent to many lists at once are declined. The submitting account's
+  PR history across GitHub is part of the review.
 
 ## Freshness
 
