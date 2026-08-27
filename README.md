@@ -2,9 +2,9 @@
 
 <a href="https://quesma.com"><img src=".github/logo.svg" align="right" width="110" alt=""></a>
 
-> Pricing, measurement, optimization, and governance of tokens used by AI models.
+> Token economics for AI: pricing, measurement, optimization, and governance of tokens used by AI models.
 
-Every entry is a link with a one-line summary: what it does, and the number behind it. On top of the list sit a few short pages written here: practices (what to do), concepts (how the economics work), claims (what we currently believe, with the evidence), and setups (configs you can paste straight into Claude Code or Codex). It's a reference to browse, grep, or hand to your agent - not a product.
+This list maps the token economy of AI, from what tokens cost to where they get wasted and how to cut the bill. Every entry is a link with a one-line summary: what it does, and the number behind it. On top of the list sit a few short pages written here: practices (what to do), concepts (how the economics work), claims (what we currently believe, with the evidence), and setups (configs you can paste straight into Claude Code or Codex). It's a reference to browse, grep, or hand to your agent - not a product.
 
 **Topics:** [Caching](#caching) · [Compression](#compression) · [Context engineering](#context-engineering) · [Memory](#memory) · [Routing](#routing-model-selection) · [Multi-agent systems](#multi-agent-systems) · [Gateways](#gateways-and-proxies) · [Observability](#observability) · [Benchmarks](#benchmarks-evals) · [Cache accounting](#cache-accounting) · [Budgets](#budgets-caps) · [Pricing models](#pricing-models) · [Energy](#energy-carbon)
 
