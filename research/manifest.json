@@ -353,7 +353,7 @@
   {
     "title": "FOCUS 1.5 - what the AI-cost release includes, and what it rules out",
     "url": "https://www.tokeneconomics.com/projects/what-1-5-does-for-ai-cost-and-what-it-does-not/",
-    "verified_on": "2026-08-19",
+    "verified_on": "2026-08-28",
     "stale_after": "2026-10-08",
     "category": "whole-bill-accounting",
     "kind": "article",
@@ -551,8 +551,8 @@
   {
     "title": "token-optimizer (alexgreensh)",
     "url": "https://github.com/alexgreensh/token-optimizer",
-    "verified_on": "2026-07-02",
-    "stale_after": "2026-10-02",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-11-26",
     "category": "transcript-analysis",
     "kind": "oss",
     "super_area": "measure"
@@ -929,8 +929,8 @@
   {
     "title": "Codex CLI compaction cost - over-eager compaction as a token-amplification loop",
     "url": "https://github.com/openai/codex/issues/16812",
-    "verified_on": "2026-08-10",
-    "stale_after": "2026-11-08",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-11-26",
     "category": "context-engineering",
     "kind": "article",
     "super_area": "optimize"
@@ -1595,8 +1595,8 @@
   {
     "title": "Cached-input discounts - the ~90%-off lever behind cache-accounting",
     "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-caching",
-    "verified_on": "2026-08-19",
-    "stale_after": "2026-11-03",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-11-26",
     "category": "pricing-models",
     "kind": "article",
     "super_area": "understand"
@@ -1604,15 +1604,15 @@
   {
     "title": "ChatGPT subscription tiers and Codex CLI bundling/pricing (2026)",
     "url": "https://learn.chatgpt.com/docs/pricing",
-    "verified_on": "2026-08-22",
-    "stale_after": "2026-11-20",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-11-26",
     "category": "pricing-models",
     "kind": "article",
     "super_area": "understand"
   },
   {
     "title": "ChatGPT workspace-agent credit billing (effective July 6, 2026)",
-    "url": "https://help.openai.com/en/articles/11481834-chatgpt-rate-card",
+    "url": "https://help.openai.com/en/articles/11481834-chatgpt-rate-card-business-enterpriseedu-credit-based-pricing",
     "verified_on": "2026-07-17",
     "stale_after": "2026-10-15",
     "category": "pricing-models",
@@ -1640,8 +1640,8 @@
   {
     "title": "Claude Opus 5 - flat price vs Opus 4.8, but 1M context and thinking on by default",
     "url": "https://platform.claude.com/docs/en/release-notes/api",
-    "verified_on": "2026-07-26",
-    "stale_after": "2026-10-26",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-11-26",
     "category": "model-economics",
     "kind": "article",
     "super_area": "understand"
@@ -1649,8 +1649,8 @@
   {
     "title": "Claude \"subscription arbitrage\" and its (announced, then paused) end",
     "url": "https://zed.dev/blog/anthropic-subscription-changes",
-    "verified_on": "2026-07-02",
-    "stale_after": "2026-10-02",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-11-26",
     "category": "buyer-incentives",
     "kind": "article",
     "super_area": "understand"
@@ -1739,8 +1739,8 @@
   {
     "title": "Fable 5 leaves subscription inclusion - frontier tier moves to usage-credit metering (July 7 cliff)",
     "url": "https://www.anthropic.com/news/redeploying-fable-5",
-    "verified_on": "2026-08-19",
-    "stale_after": "2026-09-10",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-09-18",
     "category": "pricing-models",
     "kind": "article",
     "super_area": "understand"
@@ -1811,8 +1811,8 @@
   {
     "title": "Google AI Pro price and Gemini/Antigravity free-tier limits (2026)",
     "url": "https://gemini.google/us/subscriptions/",
-    "verified_on": "2026-08-22",
-    "stale_after": "2026-11-20",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-11-26",
     "category": "pricing-models",
     "kind": "article",
     "super_area": "understand"
@@ -1820,8 +1820,8 @@
   {
     "title": "GPT-5.6 family (Sol / Terra / Luna) - API pricing",
     "url": "https://developers.openai.com/api/docs/pricing",
-    "verified_on": "2026-08-19",
-    "stale_after": "2026-11-03",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-11-26",
     "category": "pricing-models",
     "kind": "article",
     "super_area": "understand"
@@ -1838,8 +1838,8 @@
   {
     "title": "Kimi K2.6/K2.7-Code and GLM-5.2 official API pricing",
     "url": "https://platform.kimi.ai/docs/pricing/chat-k27-code",
-    "verified_on": "2026-08-19",
-    "stale_after": "2026-11-03",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-11-26",
     "category": "model-economics",
     "kind": "article",
     "super_area": "understand"
@@ -1874,8 +1874,8 @@
   {
     "title": "LLM token pricing dimensions - the structure of a token bill",
     "url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "verified_on": "2026-08-22",
-    "stale_after": "2026-11-20",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-11-26",
     "category": "pricing-models",
     "kind": "article",
     "super_area": "understand"
@@ -1991,8 +1991,8 @@
   {
     "title": "Tokenomics Foundation (Linux Foundation + FinOps Foundation)",
     "url": "https://www.linuxfoundation.org/press/linux-foundation-launches-the-tokenomics-foundation-to-define-the-economics-and-roi-of-ai-value",
-    "verified_on": "2026-08-10",
-    "stale_after": "2026-11-08",
+    "verified_on": "2026-08-28",
+    "stale_after": "2026-10-09",
     "category": "consolidation",
     "kind": "company",
     "super_area": "understand"
